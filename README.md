@@ -1,6 +1,9 @@
 # demo-clase
 Este es un demo para la clase del sábado
 
+----
+# Este es un nuevo cambio
+
 
 # Esta es una sección
 
@@ -28,3 +31,5 @@ esta palabra está en **negrilla**.
 esta palabra está en *italica*.
 
 www.google.com
+
+Cambio#1
